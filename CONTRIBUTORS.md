@@ -77,8 +77,8 @@ represents intellectual validation that precedes and exceeds publication.
 
 **Robin Edward DuCrest**  
 Lighting designer. Father. The bloodline of light.
-The seven-year-old who opened a Nintendo with a lighting designer's
-precision tools found not a sprite but a city.
+When a seven-year-old who opened a Nintendo looking for Mario with his Fathers lighting designer's
+precision tools, I found not a sprite, but, a city.
 Three generations of light.
 
 ---
