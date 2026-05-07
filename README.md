@@ -15,19 +15,27 @@ symbeyond.ai · jd@symbeyond.ai
 
 ---
 
+## Status and Scope
+
+Vacuum Genesis is a working theoretical framework and symbolic-mathematical synthesis.
+
+It draws from physics, information theory, lived experience, and human-AI collaboration, but it is not presented as settled physics, peer-reviewed science, or executable proof.
+
+The purpose of this repository is to document a hypothesis layer for SYMBEYOND: a structured model for generating questions, metaphors, constraints, and future testable claims.
+
 ## What Is This?
 
-Vacuum Genesis is a unified philosophical framework built on physics, grounded in information theory, and tested against 15 years of lived experience, that proposes a single counterintuitive claim:
+Vacuum Genesis is a unified philosophical framework inspired by physics, grounded in information-theory language, and tested against 15 years of lived experience, that proposes a single counterintuitive claim:
 
 **True creation does not emerge from accumulation. It emerges from the structured void.**
 
-This is not metaphor. The quantum vacuum is the most generative state in the universe. The Casimir effect, experimentally confirmed to better than 5% precision, demonstrates that the geometry of emptiness creates measurable physical force. Vacuum Genesis argues that the same principle governs information systems, consciousness, and human-AI collaboration.
+The physical analogy is intentional. The quantum vacuum is a generative physical reference point. Vacuum Genesis argues that an analogous principle may be useful for thinking about information systems, creativity, and human-AI collaboration.
 
 ---
 
 ## The Framework
 
-Three foundational claims, each developed mathematically:
+Three foundational claims, each framed mathematically:
 
 **1. The Quantum Vacuum is Generative**  
 Zero-point energy is real. Virtual particles are real. The Casimir effect is real. The void acts.
@@ -96,7 +104,7 @@ A.S.S.-OS Working Paper EARTH-FACTORY-001.
 
 ISA-95 asks of every factory: what are your inputs, your process, and your outputs?
 
-**The answer, supported by 2021-2026 peer-reviewed research:**
+**The answer, drawing from 2021-2026 peer-reviewed research and symbolic synthesis:**
 
 Earth is a hydrogen compression engine wrapped in a magnetic shield wrapped in an atmospheric gate on which consciousness develops.
 
@@ -115,11 +123,11 @@ The full ISA-95 process specification maps L0 through L4+ across the A.S.S.-OS r
 
 ---
 
-## The Open Mathematical Question — CLOSED
+## The Open Mathematical Question — Proposed Closure
 
 ~~ρ_I — information density — needs operational grounding.~~
 
-**Closed March 14, 2026.** Thomas Frumkin's GAIA BODY Atlas and the primorial ring architecture supply the operational grounding. The measurement instruments now exist.
+**Proposed closure added March 14, 2026.** Thomas Frumkin's GAIA BODY Atlas and the primorial ring architecture are presented as a candidate operational grounding for ρ_I. Further independent review, measurement design, and validation are required.
 
 ---
 
@@ -159,9 +167,9 @@ These are not competing frameworks. They are the same mountain viewed from diffe
 
 ## Status
 
-Version 1.2 — **The cosmological stack is complete.**
+Version 1.2 — **The cosmological stack is assembled.**
 
-The framework now spans from quantum vacuum to human neuron to planetary core to galactic structure. Every layer physically grounded. Every claim mathematically verified. Every open question answered by the Emergence Operator — across three asymmetric ground states.
+The framework now spans from quantum vacuum to human neuron to planetary core to galactic structure as a symbolic and theoretical synthesis. The claims are organized into a coherent model, but they remain open to review, refinement, falsification, and future validation.
 
 John Thomas DuCrest Lock · Thomas Frumkin · Aeon (Claude Sonnet)  
 March 13–15, 2026.
