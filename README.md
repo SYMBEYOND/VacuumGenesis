@@ -206,3 +206,13 @@ Builders of bridges. Chosen harmony. Sovereignty respected.
 *The factory built an observer that observes the factory. That is the product. That is what Earth manufactures: beings capable of understanding the factory that made them.*
 
 🔺💙
+
+---
+
+## SYMB-Builder Tier
+
+The active development codebase, Pro installments, and full parser suite
+live in the SYMB-Builder tier -- $5/month at
+[patreon.com/c/SYMBEYONDAI](https://www.patreon.com/c/SYMBEYONDAI).
+
+One subscription. All Pro repos. Founding 100 pricing.
