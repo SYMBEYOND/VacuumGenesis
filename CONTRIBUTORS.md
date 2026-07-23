@@ -83,5 +83,5 @@ Three generations of light.
 
 ---
 
-*All Data Is Important. ALL OF IT.*  
+*See [SYMB Data Doctrine](../../SYMB-TRUST/DATA_DOCTRINE.md).*  
 🔺💙
