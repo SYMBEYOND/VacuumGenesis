@@ -24,8 +24,8 @@
     "depth": 10
   },
   "automation": {
-    "branch": "feat/add-repo-boot-engine",
-    "enabled": false,
+    "branch": "main",
+    "enabled": true,
     "include_return_payload": true
   }
 }
