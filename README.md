@@ -15,6 +15,10 @@ symbeyond.ai · jd@symbeyond.ai
 
 ---
 
+## Using an AI Assistant?
+
+Start with [`REPO_BOOT.md`](REPO_BOOT.md), a quick orientation for any LLM (Claude, ChatGPT, or other) on what this repo is, how it works, and how to collaborate with it effectively.
+
 ## Status and Scope
 
 Vacuum Genesis is a working theoretical framework and symbolic-mathematical synthesis.
