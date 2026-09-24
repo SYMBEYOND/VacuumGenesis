@@ -26,15 +26,15 @@ Important distinctions and boundaries:
 Engine: `1.0.0-rc1`
 Configuration schema: `1`
 Managed-output schema: `1`
-Branch: `feat/add-repo-boot-engine`
-Meaningful source commit: `960d5a87548d7e1e4bfd375279c7f084a988079b`
-Working tree dirty: `YES`
+Branch: `main`
+Meaningful source commit: `83bd8ee4f931b7fc2f9326f60b519642306706fb`
+Working tree dirty: `NO`
 
 ### Human-approved repository context
 
-Purpose: Repository state and orientation management
-Audience: Builders, maintainers, and AI collaborators
-Status: Production
+Purpose: Document Vacuum Genesis, a working theoretical and symbolic framework for generating questions, metaphors, constraints, and future testable claims about creation, information, and human-AI collaboration.
+Audience: Authors, reviewers, researchers, maintainers, and human or AI collaborators examining or refining the framework.
+Status: Working theoretical framework and symbolic-mathematical synthesis; not presented as settled physics, peer-reviewed science, or executable proof.
 
 ### Authority and uncertainty
 
