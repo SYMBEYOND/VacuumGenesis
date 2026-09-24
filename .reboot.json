@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
   "repository": {
-    "purpose": "Repository state and orientation management",
-    "audience": "Builders, maintainers, and AI collaborators",
-    "status": "Production"
+    "purpose": "Document Vacuum Genesis, a working theoretical and symbolic framework for generating questions, metaphors, constraints, and future testable claims about creation, information, and human-AI collaboration.",
+    "audience": "Authors, reviewers, researchers, maintainers, and human or AI collaborators examining or refining the framework.",
+    "status": "Working theoretical framework and symbolic-mathematical synthesis; not presented as settled physics, peer-reviewed science, or executable proof."
   },
   "orientation": {
     "important_files": [],
